@@ -5,4 +5,4 @@ This Android application provides a user-friendly interface for visually impaire
 2. Email Composition: Users can compose new emails using voice commands, including dictating the recipient, subject, and message body.
 3. Confirmation System: Before sending an email, the system will repeat the entered details to the user for confirmation. The email will only be sent after the user confirms.
 
-The user need not rembember any keyboard shortcuts and mouse operations. The users can touch anywhere in the screen and perform the operations.
+The user need not rembember any keyboard shortcuts or mouse operations. The users can touch anywhere in the screen and perform the operations.
