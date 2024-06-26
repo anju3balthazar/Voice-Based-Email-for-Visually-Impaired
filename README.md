@@ -17,11 +17,9 @@ Voice Input for Recipient Email: Users can enter the receiver's email address th
 SMTP Protocol: Uses SMTP protocol to send emails, ensuring secure and reliable email delivery.
 
 ## How It Works
-Voice Command Activation: Activate voice command mode to start managing emails.
+Google Speech-to-Text : Users enter the recipent email address, Subject and Message through voice.
 
-Enter Receiver Email: Speak the email address of the recipient. The system will repeat the entered email address for confirmation.
-
-Confirm Email Address: Confirm the email address. If correct, proceed to the next step; if incorrect, re-enter the email address.
+Confirm Email Address: The system will repeat the entered email address for confirmation. Confirm the email address. If correct, proceed to the next step; if incorrect, re-enter the email address.
 
 Compose Email: Dictate the subject and body of the email.
 
