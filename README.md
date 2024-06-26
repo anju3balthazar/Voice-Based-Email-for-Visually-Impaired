@@ -7,12 +7,17 @@ This mobile application enables hands-free email management via voice commands, 
 ## Language used
    Java
 
+## Modules Used
+
+   1. Login Module
+   2. Send Mail Module
+
 ## Features
 1. Voice Commands: Users can manage their emails entirely through voice commands.
 
 2. Simplified Interaction: Eliminates mouse points and keyboard shortcuts, allowing users to touch anywhere on the screen to respond to emails.
 
-3. Voice Input for Recipient Email: Users can enter the receiver's email address through voice commands. The system will read back the entered input for confirmation before                                      sending the email.
+3. Voice Input for Recipient Email: Users can enter the receiver's email address through voice commands. The system will speak back the entered input using the Text-to-         Speech Feature for confirmation before sending the email.
 
 4. SMTP Protocol: Uses SMTP protocol to send emails, ensuring secure and reliable email delivery.
 
